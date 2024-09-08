@@ -1,6 +1,9 @@
 #!name=起点读书 解锁会员免费听书板块
 #!desc=起点读书 解锁会员免费听书板块
-#!icon=https://github.com/Toperlock/Quantumult/raw/main/icon/Doraemon/Doraemon-1064.png
+#!icon=https://raw.githubusercontent.com/zlw555/loon/main/icons/wps.png
+
+
+https://github.com/zlw555/loon/blob/main/icons/dsbj.png
 
 [Script]
 http-response ^https?:\/\/.+.qidian.com\/argus\/api\/v[0-9]\/(adv\/getadvlistbatch|user\/getaccountpage|subscription\/getvipprice|client\/getsplashscreen) script-path=https://raw.githubusercontent.com/WeiGiegie/666/main/QDVIP.js
