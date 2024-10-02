@@ -5,7 +5,7 @@
 
 [Script]
 
-http-response ^https?:\/\/.+.qidian.com\/argus\/api\/v[0-9]\/(adv\/getadvlistbatch|user\/getaccountpage|subscription\/getvipprice|client\/getsplashscreen) script-path=https://raw.dgithub.xyz/WeiGiegie/666/main/QDVIP.js, requires-body=true
+http-response ^https?:\/\/.+.qidian.com\/argus\/api\/v[0-9]\/(adv\/getadvlistbatch|user\/getaccountpage|subscription\/getvipprice|client\/getsplashscreen) script-path=https://raw.dgithub.xyz/WeiGiegie/666/main/QDVIP.js
 
 http-request ^https?:\/\/.+.qidian.com\/argus\/api\/v[0-9]\/(audio\/getAsrInfo\?|bookcontent\/getvipcontent|audio\/getTtsChapterAudio\?|audio\/getaudiochapter\?) script-path=https://raw.dgithub.xyz/WeiGiegie/666/main/QDVIP.js
 
