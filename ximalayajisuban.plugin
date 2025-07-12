@@ -2,6 +2,11 @@
 #!desc=喜马拉雅极速版3.0.34有效!!
 #!icon=https://raw.githubusercontent.com/zlw555/loon/main/icons/xmlyajsb.png
 
+[Rewrite]
+^https?://adse\.ximalaya\.com reject-dict
+^https?://adse\.wsa\.ximalaya\.com/ reject-dict
+^https?://passport\.ximalaya\.com/user-http-app/v1/token/refresh reject-dict
+
 [Script]
 # >喜马拉雅极速版
 http-response ^https?:\/\/.+ximalaya.com\/(fmobile-user\/homePage|pizza-category\/mypage\/operation)\/ script-path=https://github.com/WeiGiegie/666/raw/refs/heads/main/ximalayajisuban.js, requires-body=true, timeout=60, tag=ximalayajisuban
