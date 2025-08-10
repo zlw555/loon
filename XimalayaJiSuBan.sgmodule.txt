@@ -1,5 +1,7 @@
-#!name=ximalayajisuban
-#!desc=ximalayajisuban
+#!name=喜马拉雅极速版
+#!desc=最高支持喜马拉雅极速版3.0.34
+#!date=2025-08-10
+#!icon=https://raw.githubusercontent.com/zlw555/loon/main/icons/xmlyajsb.png
 
 [Map Local]
 ^https?://adse\.+ximalaya\.com/ data-type=text data="{}" status-code=200 header="Content-Type:application/json"
