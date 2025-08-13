@@ -1,4 +1,5 @@
-🇺🇸 美国 CloudFlare节点 = vmess, rak1ding.89060004.xyz, 2083, username=75d96365-1229-4fc4-dbda-855717f876cf, ws=true, ws-path=/, ws-headers=Host:"rak1d3.988988.shop", vmess-aead=true, tls=true, skip-cert-verify=true, sni=rak1d3.988988.shop
-VIP1 = ss, 13.40.120.103, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP2 = ss, 15.188.74.209, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP3 = ss, 51.44.179.14, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+🇺🇸 美国 = vmess, rak1ding.89060004.xyz, 2083, username=75d96365-1229-4fc4-dbda-855717f876cf, ws=true, ws-path=/, ws-headers=Host:"rak1d3.988988.shop", vmess-aead=true, tls=true, skip-cert-verify=true, sni=rak1d3.988988.shop
+VIP1 = ss, 3.26.232.171, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+VIP2 = ss, 50.17.153.120, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+VIP3 = ss, 13.40.120.103, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+VIP4 = ss, 51.44.179.14, 443, encrypt-method=aes-256-cfb, password=amazonskr05
