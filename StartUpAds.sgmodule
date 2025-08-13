@@ -2,7 +2,13 @@
 #!desc=淘宝 农业银行
 #!icon=https://raw.githubusercontent.com/zlw555/loon/main/icons/dyd.png
 
+[Rule]
+DOMAIN-SUFFIX,iyes.youku.com,REJECT
+
 [Map Local]
+# > xianyu
+^https?:\/\/acs\.m\.goofish\.com\/gw\/mtop.*splash\.ads data-type=text data=" " status-code=200
+
 # > taobao
 ^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get data-type=text data=" " status-code=200
 
@@ -11,4 +17,4 @@
 abchina = type=http-response, pattern=^https?:\/\/mobilepaas\.abchina\.com\.cn:441\/mgw\.htm, script-path=https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js, timeout=60
 
 [MITM]
-hostname = %APPEND% guide-acs.m.taobao.com, mobilepaas.abchina.com.cn
+hostname = %APPEND% acs.m.goofish.com, iyes.youku.com, guide-acs.m.taobao.com, mobilepaas.abchina.com.cn
