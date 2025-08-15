@@ -1,3 +1,3 @@
-VIP1 = Shadowsocks,3.26.232.171,443,aes-256-cfb,"dongtaiwang.com",fast-open=false,udp=false
-VIP2 = Shadowsocks,50.17.153.120,443,aes-256-cfb,"dongtaiwang.com",fast-open=false,udp=false
-VIP3 = Shadowsocks,13.40.120.103,443,aes-256-cfb,"dongtaiwang.com",fast-open=false,udp=false
+VIP1 = Shadowsocks,3.26.232.171,443,aes-256-cfb,"dongtaiwang.com"
+VIP2 = Shadowsocks,50.17.153.120,443,aes-256-cfb,"dongtaiwang.com"
+VIP3 = Shadowsocks,13.40.120.103,443,aes-256-cfb,"dongtaiwang.com"
