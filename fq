@@ -2,9 +2,9 @@ VIP1 = ss, 34.229.220.102, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP2 = ss, 108.129.163.206, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP3 = ss, 3.80.52.70, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP4 = ss, 176.34.150.214, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP5 = ss, 34.244.73.113, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+VIP5 = ss, 52.204.172.58, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP6 = ss, 51.44.212.37, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP7 = ss, 13.40.120.103, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP8 = ss, 54.237.216.188, 443, encrypt-method=aes-256-cfb, password=amazonskr05
 VIP9 = ss, 3.254.136.30, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP10 = ss, 52.204.172.58, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+
