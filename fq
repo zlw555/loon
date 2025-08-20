@@ -1,10 +1,11 @@
-VIP1 = ss, 34.229.220.102, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP2 = ss, 108.129.163.206, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP3 = ss, 3.80.52.70, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP4 = ss, 176.34.150.214, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP5 = ss, 52.204.172.58, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP6 = ss, 51.44.212.37, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP7 = ss, 13.40.120.103, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP8 = ss, 54.237.216.188, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-VIP9 = ss, 3.254.136.30, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+🇺🇸 VIP專綫（美国）US = Shadowsocks,34.229.220.102,443,aes-256-cfb,"amazonskr05"
+🇯🇵 VIP專綫（日本）JP = Shadowsocks,108.129.163.206,443,aes-256-cfb,"amazonskr05"
+🇺🇸 VIP專綫（美国）US = Shadowsocks,3.80.52.70,443,aes-256-cfb,"amazonskr05"
+🇰🇷 VIP專綫（韩国）KR = Shadowsocks,176.34.150.214,443,aes-256-cfb,"amazonskr05"
+🇯🇵 VIP專綫（日本）JP = Shadowsocks,34.244.73.113,443,aes-256-cfb,"amazonskr05"
+🇭🇰 VIP專綫（香港）HK = Shadowsocks,51.44.212.37,443,aes-256-cfb,"amazonskr05"
+🇸🇬 VIP專綫（新加坡）SG = Shadowsocks,52.215.235.115,443,aes-256-cfb,"amazonskr05"
+🇨🇦 VIP專綫（加拿大）CA = Shadowsocks,54.237.216.188,443,aes-256-cfb,"amazonskr05"
+🇨🇳 VIP專綫（台湾）TW = Shadowsocks,3.254.136.30,443,aes-256-cfb,"amazonskr05"
+🇺🇸 VIP專綫（美国）HK = Shadowsocks,52.204.172.58,443,aes-256-cfb,"amazonskr05"
 
