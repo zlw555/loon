@@ -1,10 +1,1 @@
-🇺🇸 VIP專綫（美国）HK = ss, 2001:bc8:1203:106::300, 33333, encrypt-method=aes-256-gcm, password=dongtaiwang.com
-🇨🇳 VIP專綫（台湾）TW, Taipei = ss, 3.254.154.32, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇭🇰 VIP專綫（香港）HK, Kowloon = ss, 13.60.251.182, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇺🇸 VIP專綫（美国）US, Dallas 2 = ss, 23.22.255.106, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇺🇸 VIP專綫（美国）HK, Los Angeles = ss, 34.203.223.102, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇺🇸 VIP專綫（美国）US, Houston = ss, 44.223.31.94, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇰🇷 VIP專綫（韩国）KR, Incheon = ss, 18.185.56.207, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇯🇵 VIP專綫（日本）JP, Tokyo = ss, 18.159.61.225, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇯🇵 VIP專綫（日本）JP, Osaka = ss, 52.213.24.150, 443, encrypt-method=aes-256-cfb, password=amazonskr05
-🇸🇬 VIP專綫（新加坡）SG, Singapore = ss, 52.29.119.191, 443, encrypt-method=aes-256-cfb, password=amazonskr05
+SS节点-ipv6 = Shadowsocks,[2001:bc8:1203:106::300],33333,aes-256-gcm,"dongtaiwang.com"
