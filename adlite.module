@@ -1,12 +1,11 @@
 #!name=APP启动页去广告lite
 #!desc=APP启动页去广告轻量版
 [URL Rewrite]
-^https?://acs\.m\.goofish\.com\/gw\/mtop.*splash _ reject-200
-^https?://adse\.ximalaya\.com\/subapp\/loading _ reject-200
-^https?://adse\.ximalaya\.com\/ting\/loading _ reject-200
-^https?://adse\.ximalaya\.com\/adx\/ad\?slotId=15 _ reject-200
-^https?://adse\.ximalaya.com\/adx\/uve\?positionId=14 _ reject-200
-^https?://adse\.ximalaya\.com _ reject
+^https?://acs\.m\.goofish\.com\/gw\/mtop.*splash  - reject-dict
+^https?://adse\.ximalaya\.com\/subapp\/loading  - reject-dict
+^https?://adse\.ximalaya\.com\/ting\/loading  - reject-dict
+^https?://adse\.ximalaya\.com\/adx\/ad\?slotId=15  - reject-dict
+^https?://adse\.ximalaya.com\/adx\/uve\?positionId=14  - reject-dict
 
 [MITM]
 hostname = %APPEND% acs.m.goofish.com, adse.ximalaya.com
