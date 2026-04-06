@@ -6,6 +6,7 @@
 ^https?://adse\.ximalaya\.com\/ting\/loading _ reject-200
 ^https?://adse\.ximalaya\.com\/adx\/ad\?slotId=15 _ reject-200
 ^https?://adse\.ximalaya.com\/adx\/uve\?positionId=14 _ reject-200
+^https?://adse\.ximalaya\.com _ reject
 
 [MITM]
 hostname = %APPEND% acs.m.goofish.com, adse.ximalaya.com
