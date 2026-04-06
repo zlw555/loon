@@ -1,0 +1,9 @@
+#!name=ad
+#!desc=ad
+
+[URL Rewrite]
+#  > 去广告
+^https?://acs\.m\.goofish\.com\/gw\/mtop.*splash  - reject-dict
+
+[MITM]
+hostname = %APPEND% acs.m.goofish.com
