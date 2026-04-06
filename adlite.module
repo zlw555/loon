@@ -6,6 +6,6 @@
 ^https?://adse\.ximalaya\.com\/ting\/loading  - reject-dict
 ^https?://adse\.ximalaya\.com\/adx\/ad\?slotId=15  - reject-dict
 ^https?://adse\.ximalaya.com\/adx\/uve\?positionId=14  - reject-dict
-
+^https?://adse\.+ximalaya\.com/ - reject-dict
 [MITM]
-hostname = %APPEND% acs.m.goofish.com, adse.ximalaya.com
+hostname = %APPEND% acs.m.goofish.com, adse.ximalaya.com, adse*ximalaya.com
